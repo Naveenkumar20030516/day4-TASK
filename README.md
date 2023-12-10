@@ -1,1 +1,3 @@
-# day4-TASK
+# day4-TASK  
+
+FUNCTIONS
